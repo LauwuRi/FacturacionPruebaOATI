@@ -131,12 +131,12 @@ Ejecute el entorno de desarrollo
 
 ## Modelo de datos
 
-![Modelo de Datos]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/DiagramaSQL.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/DiagramaSQL.png)
+[Modelo de Datos]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/DiagramaSQL.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/DiagramaSQL.png)
 
 ## Pruebas de funcionamiento en Postman
 
-![Get Facturas]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getFacturas.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getFacturas.png)
-![Get Clientes]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getClientes.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getClientes.png)
-![Get Productos]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getProductos.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getProductos.png)
-![Post Facturas]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/postFactura.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/postFactura.png)
+[Get Facturas]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getFacturas.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getFacturas.png)
+[Get Clientes]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getClientes.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getClientes.png)
+[Get Productos]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getProductos.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getProductos.png)
+[Post Facturas]([link](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/postFactura.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/postFactura.png)
 

@@ -131,7 +131,7 @@ Ejecute el entorno de desarrollo
 
 ## Modelo de datos
 
-[Modelo de Datos]([https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/DiagramaSQL.png)https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/DiagramaSQL.png])
+![Modelo de Datos](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/DiagramaSQL.png)
 
 ## Pruebas de funcionamiento en Postman
 

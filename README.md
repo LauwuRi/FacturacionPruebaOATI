@@ -140,3 +140,8 @@ Ejecute el entorno de desarrollo
 ![Get Productos](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getProductos.png)
 ![Post Facturas](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/postFactura.png)
 
+## Modelo de vista
+
+![Modelo de vista](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/html.jpg)
+
+

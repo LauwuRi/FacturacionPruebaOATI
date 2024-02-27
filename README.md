@@ -135,8 +135,8 @@ Ejecute el entorno de desarrollo
 
 ## Pruebas de funcionamiento en Postman
 
-[Get Facturas]([https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getFacturas.png])
-[Get Clientes]([https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getClientes.png])
-[Get Productos]([https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getProductos.png])
-[Post Facturas]([https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/postFactura.png])
+![Get Facturas](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getFacturas.png)
+![Get Clientes](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getClientes.png)
+![Get Productos](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/getProductos.png)
+![Post Facturas](https://github.com/LauwuRi/FacturacionPruebaOATI/blob/main/assets/postFactura.png)
 
